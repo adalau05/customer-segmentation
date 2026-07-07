@@ -1,4 +1,4 @@
-# customer-segmentation
+# Customer Segmentation
 
 # THEATRICAL BOX OFFICE SEGMENTATION REPORT: FROZEN
 
