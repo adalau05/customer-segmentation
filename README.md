@@ -14,7 +14,9 @@ Baseline Market Conversion: 12.0%
 
 To optimize pure theatrical box office revenue and theater seat capacity, the tree initiates with a Three-Way Root Node Split (Male / Female / Others).
 
-In the film industry, this phenomenon is tracked using a metric called audience composition data (often managed by companies like National Research Group or Comscore).
+In theatrical distribution, male and female purchasing behaviors for a major family animation feature follow entirely different baseline trajectories from day one.
+
+This phenomenon is tracked using a metric called audience composition data (often managed by companies like National Research Group or Comscore).
 
 When a major family animated feature hits theaters, the baseline purchasing trajectories for male and female buyers look entirely different from day one because they are driven by two completely different buying mechanics: primary demand vs. derived utility.
 
@@ -46,7 +48,7 @@ From Demographic Core to Behavioral Precision
 
 Step 1: The Root Split (Gender Baseline)
 
-We deliberately force Gender as our absolute root node split. Why? Because in theatrical distribution, male and female purchasing behaviors for a major family animation feature follow entirely different baseline trajectories from day one."
+We deliberately force Gender as our absolute root node split. 
 
 Female Baseline (16% Conv): Starts with a higher native affinity. It represents the immediate, cultural default audience for this specific film asset.
 
